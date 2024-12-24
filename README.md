@@ -18,13 +18,6 @@
 <p>💬 Ask me about HTML | CSS | JavaScript | React.js | Redux | Node.js | Express.js | MongoDB | Mongoose |
         Socket.io</p>
 
-<p>📫 How to reach me :ashwani2011study@gmail.com | 
-<a href="https://www.linkedin.com/in/ashwani-kumar-b696a4235/"
-            style="font-weight: 600; color: blue;">LinkedIn</a></p>
-
-<a href="https://ashwani-kumar-portfolio.netlify.app/"
-            style="font-weight: 600; color: blue;">Portfolio</a></p>
-
 
 <br>
 
