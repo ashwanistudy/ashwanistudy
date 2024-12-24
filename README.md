@@ -18,8 +18,13 @@
 <p>💬 Ask me about HTML | CSS | JavaScript | React.js | Redux | Node.js | Express.js | MongoDB | Mongoose |
         Socket.io</p>
 
-<p>📫 How to reach me :ashwani2011study@gmail.com | <a href="https://www.linkedin.com/in/ashwani-kumar-b696a4235/"
+<p>📫 How to reach me :ashwani2011study@gmail.com | 
+<a href="https://www.linkedin.com/in/ashwani-kumar-b696a4235/"
             style="font-weight: 600; color: blue;">LinkedIn</a></p>
+
+<a href="https://ashwani-kumar-portfolio.netlify.app/"
+            style="font-weight: 600; color: blue;">Portfolio</a></p>
+
 
 <br>
 
@@ -32,7 +37,7 @@
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
                 alt="LinkedIn Badge" />
         </a>
-        <a href="https://regal-cendol-3fbfcc.netlify.app/">
+        <a href="https://ashwani-kumar-portfolio.netlify.app/">
             <img src="https://img.shields.io/badge/portfolio-black?style=for-the-badge&logo=github&logoColor=white"
                 alt="Github Badge" />
         </a>
