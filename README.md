@@ -13,7 +13,7 @@
 
 <p>🌱 I’m a Full stack MERN Developer .</p>
 
-<p>👨‍💻 All of my projects are available at <a href="https://masaischool.com/"
+<p>👨‍💻 All of my projects are available at <a href="https://ashwani-kumar-portfolio.netlify.app/"
             style="font-weight: 600; color: blue;">PortFolio</a></p>
 <p>💬 Ask me about HTML | CSS | JavaScript | React.js | Redux | Node.js | Express.js | MongoDB | Mongoose |
         Socket.io</p>
