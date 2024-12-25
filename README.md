@@ -34,6 +34,8 @@
             <img src="https://img.shields.io/badge/portfolio-black?style=for-the-badge&logo=github&logoColor=white"
                 alt="Github Badge" />
         </a>
+        <br/>
+        <br/>
         <a href="https://resume-builder-test-new.masaischool.com/resume/public?resumeId=676c5913565a02c8ebb8de84" > My Resume </a>
     </div>
     <p align="left">
